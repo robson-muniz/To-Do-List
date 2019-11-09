@@ -1,2 +1,3 @@
 # To-Do-List
-A simple application using HTML/CSS / and jQuery.
+---
+A simple Web Application using HTML/CSS and jQuery.
